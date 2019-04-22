@@ -1,0 +1,21 @@
+{
+    "name": "Derek Christensen",
+    "website": "http://shadowvulture.github.io",
+    "linkedin": "https://www.linkedin.com/in/derek-christensen-79989413b/",
+    "github": "shadowvulture",
+    "email": "derekchristensen124@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "HTML/CSS",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Git"
+    ],
+    "otherSkills": [
+        "Writing",
+        "Communication",
+        "Leadership"
+    ]
+}
